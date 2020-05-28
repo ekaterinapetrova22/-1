@@ -1,0 +1,10 @@
+C:\Users\дом\Source\Repos\Викторина\Викторина\bin\Debug\Викторина.exe.config
+C:\Users\дом\Source\Repos\Викторина\Викторина\bin\Debug\Викторина.exe
+C:\Users\дом\Source\Repos\Викторина\Викторина\bin\Debug\Викторина.pdb
+C:\Users\дом\Source\Repos\Викторина\Викторина\obj\Debug\Викторина.csprojAssemblyReference.cache
+C:\Users\дом\Source\Repos\Викторина\Викторина\obj\Debug\Викторина.Nac.resources
+C:\Users\дом\Source\Repos\Викторина\Викторина\obj\Debug\Викторина.Properties.Resources.resources
+C:\Users\дом\Source\Repos\Викторина\Викторина\obj\Debug\Викторина.csproj.GenerateResource.cache
+C:\Users\дом\Source\Repos\Викторина\Викторина\obj\Debug\Викторина.csproj.CoreCompileInputs.cache
+C:\Users\дом\Source\Repos\Викторина\Викторина\obj\Debug\Викторина.exe
+C:\Users\дом\Source\Repos\Викторина\Викторина\obj\Debug\Викторина.pdb
